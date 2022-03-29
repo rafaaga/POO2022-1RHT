@@ -1,0 +1,3 @@
+C:/Users/ACER/OneDrive - Pontificia Universidad Javeriana Cali/Semestre/POO/Hrencia_Miguel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ACER/OneDrive - Pontificia Universidad Javeriana Cali/Semestre/POO/Hrencia_Miguel/cmake-build-debug/CMakeFiles/Herencia_Figuras.dir
+C:/Users/ACER/OneDrive - Pontificia Universidad Javeriana Cali/Semestre/POO/Hrencia_Miguel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
